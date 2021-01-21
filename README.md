@@ -3,7 +3,7 @@ Repository with my hackerrank code along the years
 
 ## Running the challenges
 
- - Access the [Challenge](#Challenges) or search it in the website [hackerrank](https://www.hackerrank.com/challenges) website
+ - Access the [Challenge](#Challenges) or search it in the [hackerrank](https://www.hackerrank.com/challenges) website
  - Choose javaScript language
  - Choose the code inside challenges folder and upload it
 
